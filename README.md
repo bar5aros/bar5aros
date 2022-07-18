@@ -1,5 +1,5 @@
-<h1 align="center"> Hi, it's Barbaros 👋 </h1>
-<h3 align="center"> Frontend Developer based in Istanbul</h3>
+<h1 align="center"> Hi, I'm Barbaros 👋 </h1>
+<h2 align="center"> Frontend Developer based in Istanbul </h2>
 <br />
 
 <p align="center">
